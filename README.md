@@ -19,6 +19,14 @@
   <img width="30" height="30" src="https://media.giphy.com/media/Q24z3W4CY5r0uXeTWA/giphy.gif"> Currently learning about investment and business processess organization.
   
 # Skills 🖥️
-**General**  
+**General**
 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48">   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="53">
 
+**Backend**
+ 
+ <img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png" width="48">  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="48"> <img src="https://smartteksas.com/wp-content/uploads/2021/05/Koa.png" width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/1959px-Orange_lambda.svg.png" width="48">
+
+**Servers, tools, DBs**
+  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48"> <img src="https://assets.zabbix.com/img/brands/aws_s3.svg" width="45"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" width="45"> <img src="https://seeklogo.com/images/A/aws-sqs-simple-queue-service-logo-8884A71ECB-seeklogo.com.png" width="45"> 
