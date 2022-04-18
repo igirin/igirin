@@ -37,7 +37,5 @@
  [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50">](https://gist.github.com/igirin) 
  
  
- 
- 
- ![](https://gitwar.herokuapp.com/badge?username=igirin&color=red) 
+
  
