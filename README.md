@@ -19,14 +19,19 @@
   <img width="30" height="30" src="https://media.giphy.com/media/Q24z3W4CY5r0uXeTWA/giphy.gif"> Currently learning about investment and business processess organization.
   
 # Skills 🖥️
-**General**
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48">   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="53">
-
-**Backend**
+**General** <img align="right" width="150" height="150" src="https://camo.githubusercontent.com/d1e31dc52cf700fe195916ba84c533b868ba02d58fe5ad5503c210324f1a6096/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f323030772e77656270">
  
- <img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png" width="48">  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="48"> <img src="https://smartteksas.com/wp-content/uploads/2021/05/Koa.png" width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/1959px-Orange_lambda.svg.png" width="48">
 
-**Servers, tools, DBs**
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48">](https://www.typescriptlang.org/)   [<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="53">](https://www.docker.com/)
+
+**Backend**  
+ [<img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png" width="48">](https://nodejs.org/en/)  [<img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="48">](http://expressjs.com/) [<img src="https://smartteksas.com/wp-content/uploads/2021/05/Koa.png" width="50">](https://koajs.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orange_lambda.svg/1959px-Orange_lambda.svg.png" width="48">](https://aws.amazon.com/lambda/)
+
+**Servers, tools, DBs and other**
   
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48"> <img src="https://assets.zabbix.com/img/brands/aws_s3.svg" width="45"> <img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" width="45"> <img src="https://seeklogo.com/images/A/aws-sqs-simple-queue-service-logo-8884A71ECB-seeklogo.com.png" width="45"> 
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48">](https://www.postgresql.org/) [<img src="https://assets.zabbix.com/img/brands/aws_s3.svg" width="45">](https://aws.amazon.com/s3/) [<img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" width="45">](https://aws.amazon.com/dynamodb/) [<img src="https://seeklogo.com/images/A/aws-sqs-simple-queue-service-logo-8884A71ECB-seeklogo.com.png" width="43">](https://aws.amazon.com/sqs/) [<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="45">](https://www.rabbitmq.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" width="47">](https://socket.io/) 
+
+ **Github gist**   <img align="right" width="150" height="150" src="https://media0.giphy.com/media/J3MJAf2FbKO8oaTaTv/giphy.gif?cid=ecf05e47xzs8l2yanlnplaj60uagt0r5u4z0rg9nxjwggfyu&rid=giphy.gif&ct=g">
+ 
+ 
+ [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50">](https://gist.github.com/igirin) 
